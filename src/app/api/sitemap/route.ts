@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export async function GET() {
   
-  const BASE_URL = "https://mi-proyecto-4yj4dmokf-diego-apazas-projects.vercel.app/";  // Reemplaza por tu dominio en producción
+  const BASE_URL = "https://mi-proyecto-seo-livid.vercel.app/";  // Reemplaza por tu dominio en producción
 
   const urls = ["/", "/blog", "/contacto"];
 
@@ -18,3 +18,7 @@ export async function GET() {
     },
   });
 }
+
+
+
+

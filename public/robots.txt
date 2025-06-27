@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mi-proyecto-4yj4dmokf-diego-apazas-projects.vercel.app/
+Sitemap: https://mi-proyecto-seo-livid.vercel.app/
